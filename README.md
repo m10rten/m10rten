@@ -7,7 +7,7 @@
 | Contact | |
 | -- | -- |
 | Twitter   🐦| [@MaartenLei](https://twitter.com/MaartenLei) |
-| LinkedIn  🎓| [@vdlei](https://www.linkedin.com/in/vdlei) |
+| LinkedIn  🎓| [@vdlei](https://www.linkedin.com/in/mvdlei) |
 | E-Mail    📧| [hello@mvdlei.nl](mailto:hello@mvdlei.nl) |
 | Github :octocat:| [@m10rten](https://github.com/m10rten) |
 | Skyline   🌃| [@m10rten](https://skyline.github.com/m10rten/) |
