@@ -5,7 +5,7 @@
 </a> -->
 | Contact | |
 | -- | -- |
-| Twitter (X) 🐦| [@vden_m](https://twitter.com/vden_m/) |
+| Twitter (X) 🐦| [@mvadr_](https://twitter.com/mvadr_/) |
 | LinkedIn    🎓| [@mvdlei](https://www.linkedin.com/in/mvdlei) |
 | E-Mail      📧| [hello@mvdlei.nl](mailto:hello@mvdlei.nl) |
 | Github :octocat:| [@m10rten](https://github.com/m10rten) |
