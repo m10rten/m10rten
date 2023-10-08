@@ -13,3 +13,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/m10rten/count.svg)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m10rten&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=php)
